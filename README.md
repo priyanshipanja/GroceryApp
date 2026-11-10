@@ -9,7 +9,7 @@ A native Android application designed for quick grocery selection, custom weight
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Dynamic Grocery Catalog:** Custom `ListView` powered by an optimized `ViewHolder` pattern in `GroceryAdapter` for smooth scrolling and clean item rendering.
 - **Quantity & Price Calculation:** Input specific decimal weights (kg) for various items with automatic item-total and grand-total computations.
@@ -19,7 +19,7 @@ A native Android application designed for quick grocery selection, custom weight
 
 ---
 
-## 📁 Project Architecture
+## Project Architecture
 
 ```
 GroceryApp/
@@ -44,7 +44,7 @@ GroceryApp/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Platform:** Android (Min SDK 24, Target SDK 36)
 - **Language:** Java 11
@@ -53,7 +53,7 @@ GroceryApp/
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```bash
@@ -65,7 +65,7 @@ GroceryApp/
 
 ---
 
-## 👤 Author
+## Author
 
 **Priyanshi Panja**  
 - GitHub: [@priyanshipanja](https://github.com/priyanshipanja)
